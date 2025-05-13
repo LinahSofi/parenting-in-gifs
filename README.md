@@ -41,11 +41,12 @@ Because sometimes the only way to survive the chaos is to laugh at it — in mot
 - Google Fonts
 
 ## 💡 Future Improvements
-- Add a “Save My Mood” button to download favorite GIFs
-- Include random “Surprise Me” button for spontaneous chaos
-- Allow category buttons like “Bedtime”, “Tantrums”, “Mom Needs Coffee”
-- Add loader animation while fetching
-- Enable dark mode for 2AM scrolls
+
+- Add a "Surprise Me" button to generate a random keyword (like "coffee" or "meltdown")
+- Save favorite GIFs locally using localStorage
+- Allow filtering by Giphy categories (e.g. reactions, animals, moods)
+- Show trending parenting GIFs on page load
+- Add a dark mode for late-night scrolls in toddler nap silence
 
 ## 🧑‍💻 Author
 Linah Sofi  
