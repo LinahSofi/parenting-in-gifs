@@ -25,6 +25,14 @@ Because sometimes the only way to survive the chaos is to laugh at it — in mot
 - Flexbox-based GIF grid (no Bootstrap!)
 - Mobile-optimized view for hiding from your kids in peace
 
+## 📐 Wireframes
+
+### 🖥️ Desktop
+![Desktop Wireframe](planning/wireframe-desktop.png)
+
+### 📱 Mobile
+![Mobile Wireframe](planning/wireframe-mobile.png)
+
 ## 🔧 Technologies Used
 - HTML5
 - CSS3 (with SCSS preprocessor)
