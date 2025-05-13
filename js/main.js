@@ -21,10 +21,11 @@ form.addEventListener("submit", async function (e) {
   const url = `https://api.giphy.com/v1/gifs/search?api_key=${API_KEY}&q=${searchTerm}&limit=${limit}`;
 
   try {
-    const res = await fetch(url);
+    gifResults.innerHTML = "<p>Loading GIFs...</p>";
+const res = await fetch(url);
     const data = await res.json();
 
-    gifResults.innerHTML = ""; // clear previous results
+    gifResults.innerHTML = "<p>Loading GIFs...</p>"; // Add this at the top of the try block
 
     if (data.data.length === 0) {
       gifResults.innerHTML = "<p>No results found 😢</p>";
