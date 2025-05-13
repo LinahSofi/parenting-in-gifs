@@ -1,0 +1,39 @@
+body {
+    font-family: 'Gloria Hallelujah', cursive;
+    padding: 20px;
+    max-width: 1000px;
+    margin: auto;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+  }
+  
+  nav a {
+    margin-left: 10px;
+    text-decoration: none;
+    color: #555;
+  }
+  
+  form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .gif-grid img {
+    width: 100%;
+    max-width: 200px;
+    margin: 5px;
+  }
+  
+  .gif-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
