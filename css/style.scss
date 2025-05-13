@@ -37,3 +37,31 @@ body {
     flex-wrap: wrap;
     justify-content: center;
   }
+
+  @media (max-width: 768px) {
+    header {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+    nav {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-top: 10px;
+    }
+  
+    form {
+      flex-direction: column;
+      align-items: stretch;
+    }
+  
+    .gif-grid {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .gif-grid img {
+      max-width: 100%;
+    }
+  }
