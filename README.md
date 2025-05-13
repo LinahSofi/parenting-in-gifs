@@ -51,7 +51,3 @@ Because sometimes the only way to survive the chaos is to laugh at it — in mot
 ## 🧑‍💻 Author
 Linah Sofi  
 [GitHub Profile](https://github.com/linahsofi)
-
----
-
-Want to change the tone, add screenshots, or make it more sarcastic?
