@@ -1,6 +1,6 @@
 # Parenting in GIFs
 
-Because sometimes the only way to survive the chaos is to laugh at it — in motion.
+Because sometimes the only way to survive the chaos is to laugh at it, in motion.
 
 ## 🧠 User Stories
 
